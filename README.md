@@ -32,8 +32,7 @@ formatMovementDate() - Formats dates internationally <br>
 calcDisplayBalance() - Calculates account balance <br>
 calcSummary() - Sums deposits/withdrawals <br>
 createUsernames() - Creates usernames from accounts <br>
-updateUI() - Displays account summary and movements
-The CSS/style.css file contains styles for the UI. index.html provides the HTML structure. <br>
+updateUI() - Displays account summary and movements <br>
 
 <h2>Credits</h2>
 This project was built as part of the Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!" by instructor Jonas Schmedtmann. The starter code was provided by him. I implemented the JavaScript functionality based on the course instructions.
